@@ -1,4 +1,4 @@
-# artemisa_msx_cherry_case
+# Artemisa MSX cherry case
 Lasercut case for the Artemisa MSX
 
 This is a lasercut design for my Artemisa Home computer (MSX).
