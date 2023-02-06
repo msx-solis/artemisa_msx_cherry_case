@@ -5,7 +5,8 @@ Lasercut case for the Artemisa MSX
 
 This is a lasercut design for my Artemisa Home computer (MSX).
 I used an Omega cherry mx PCB and so a new PCB keyboard interface.
-I've lost the original design but gerbers and jed files are shared here
-you can find some more information about Artemisa MSX at: 
+I've lost the original design but gerbers and jed files are shared here.
+![top](pictures/IMG_20220108_1820477.jpg)
+You can find some more information about Artemisa MSX at: 
 https://github.com/artemisamsx/artemisa
 
